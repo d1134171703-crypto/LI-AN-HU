@@ -1,5 +1,6 @@
 # LI-AN-HU
-HELLO, EWLCOME
+HELLO, welcome
+
 | 項次 | 項目 | 內容 |
 |---:|:------|:------|
 | 1 | 圖片 | <img src="myslef.jpg" width="100" height="100" /> |
